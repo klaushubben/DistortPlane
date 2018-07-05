@@ -18,4 +18,4 @@ Untested on any other platform.
 
 
 
-![GIF](https://i.imgur.com/WQJRox3.gif)
+![GIF](https://github.com/klaushubben/DistortPlane/blob/master/Thumbnail/DistortPlane_capture_800.gif)
