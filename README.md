@@ -15,3 +15,7 @@ Untested on any other platform.
 #### Options:
 * "Reset Corners" resets the positions of the corner Handles so that the overall width/height = 1 unit. However, if "Use Texture For Initial Position" is turned on, script will query the Material for a texture set to "_MainTex", commonly known as the Albedo map texture on the Standard Shader.
 * "Show Bounds" will draw the bounding box. 
+
+
+
+![GIF](https://i.imgur.com/WDjYKPD.gif)
