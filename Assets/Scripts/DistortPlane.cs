@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+﻿/*
+ * Plane creation very much borrowed from
+ * http://wiki.unity3d.com/index.php/CreatePlane
+ * but simplified for my purpose.  
+ *
+ * Overall functionality very much inspired by the old ActionScript3 script "DistortImage" from André Michelle and others.
+ * 
+*/
+
+using UnityEngine;
 
 [RequireComponent(typeof(MeshFilter))]
 [ExecuteInEditMode]
