@@ -1,5 +1,5 @@
 # DistortPlane
-Generate plane/grid mesh with configurable number of segments. Use Handles on the four corners to distort!
+Generate plane/grid mesh with configurable number of segments. Use Handles on the four corners to distort while in Edit mode!
 
 Created with Unity 2018.1.0f2
 On OSX, Metal throws annoying Assertion errors when using mesh.RecalculateBounds(). This seems to me a Metal thing, as it doesn't happen in OpenGL. 
@@ -15,3 +15,7 @@ Untested on any other platform.
 #### Options:
 * "Reset Corners" resets the positions of the corner Handles so that the overall width/height = 1 unit. However, if "Use Texture For Initial Position" is turned on, script will query the Material for a texture set to "_MainTex", commonly known as the Albedo map texture on the Standard Shader.
 * "Show Bounds" will draw the bounding box. 
+
+
+
+![GIF](https://github.com/klaushubben/DistortPlane/blob/master/Thumbnail/DistortPlane_capture_800.gif)
