@@ -1,5 +1,5 @@
 # DistortPlane
-Generate plane/grid mesh with configurable number of segments. Use Handles on the four corners to distort!
+Generate plane/grid mesh with configurable number of segments. Use Handles on the four corners to distort while in Edit mode!
 
 Created with Unity 2018.1.0f2
 On OSX, Metal throws annoying Assertion errors when using mesh.RecalculateBounds(). This seems to me a Metal thing, as it doesn't happen in OpenGL. 
